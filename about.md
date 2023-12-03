@@ -6,7 +6,7 @@ permalink: /about/
 
 ### 关于我
 
-![卢清泉](https://xintd.github.io/lqq/images/lqq/img.png)
+![卢清泉](https://xn--yet120bc1ab21f.xn--fiqs8s/images/lqq/img.png)
 
 >您好，我是[卢清泉](http://www.jxeduyun.com/App.EduSNS/Src/index.php?app=public&mod=PersonCenter&act=index&uid=957458){:target="_blank"},  
 江西省小学语文骨干教师，也是赣州市信息化教学骨干教师之一。  
